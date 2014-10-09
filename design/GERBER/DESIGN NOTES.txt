@@ -1,0 +1,8 @@
+Design Notes
+
+Designed using DesignSpark PCB 6.1
+
+Drill ident drawing included but unsure whether you need it. 
+
+Silkscreen, resist and documentation layers omitted since the 1-day service does not provide these.
+
