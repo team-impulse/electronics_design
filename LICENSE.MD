@@ -12,8 +12,9 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-_ These files, or portions of the code or other content contained within them, shall not be used 
-for any entry in the 2014/15 CanSats in Europe Competition. _
+**These files, or portions of the code or other content contained within them, shall not be used 
+for any entry in the 2014/15 CanSats in Europe Competition unless authorised by a member of Team 
+Impulse in writing.**
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
