@@ -1,0 +1,232 @@
+PLOT REPORT
+-----------
+
+Report File    : C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a (PCB - PLOT REPORT).txt
+Report Written : Sunday, May 17, 2015
+Design Path    : C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a.pcb
+Design Title   : 
+Created        : 30/09/2014 21:49:37
+Last Saved     : 17/05/2015 19:18:20
+Editing Time   : 2251 min
+Units          : mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.3 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.3 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a - Top Silkscreen.gbr
+
+    Layers:
+    ----------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D10     Round 5.00
+    D11     Round 1.00
+    D12     Round 6.00
+    D13     Round 3.00
+    D14     Round 8.00
+    D15     Round 4.00
+    D16     Round 1.28
+
+Gerber Output
+=============
+
+C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a - Top Copper.gbr
+
+    Layers:
+    ----------------
+    Top Copper
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------------------------------
+    D10     Round 5.00
+    D17     Round 32.00
+    D18     Rectangle 47.24 X 145.67
+    D19     Round 60.00
+    D70     Round 60.00
+    D71     Rectangle 20.00 X 66.00  Rotation 90
+    D20     Rectangle 39.37 X 181.10  Rotation 90
+    D21     Rectangle 62.99 X 133.86  Rotation 90
+    D22     Rectangle 21.65 X 47.24  Rotation 90
+    D23     Rectangle 31.50 X 47.24  Rotation 90
+    D26     Rectangle 39.37 X 59.06  Rotation 90
+    D27     Rectangle 39.37 X 61.02  Rotation 90
+    D28     Rectangle 31.50 X 47.24
+    D29     Round 48.00
+    D72     Round 30.00
+    D73     Round 40.00
+    D74     Round 15.00
+    D75     Round 10.00
+    D76     Round 25.00
+    D109    Round 50.00
+    D126    Round 39.37
+    D129    Round 31.50
+    D133    Rectangle 14.00 X 65.00
+    D134    Rectangle 97.00 X 111.00  Rotation 90
+    D136    Rectangle 39.37 X 40.00
+
+Gerber Output
+=============
+
+C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a - Top Copper (Resist).gbr
+
+    Layers:
+    ----------------
+    Top Copper
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ----------------------------------------------
+    D10     Round 5.00
+    D77     Round 42.00
+    D78     Rectangle 57.24 X 155.67
+    D79     Round 70.00
+    D80     Round 49.37
+    D81     Round 70.00
+    D82     Rectangle 30.00 X 76.00  Rotation 90
+    D83     Rectangle 49.37 X 191.10  Rotation 90
+    D84     Rectangle 72.99 X 143.86  Rotation 90
+    D85     Rectangle 31.65 X 57.24  Rotation 90
+    D86     Rectangle 41.50 X 57.24  Rotation 90
+    D89     Rectangle 49.37 X 69.06  Rotation 90
+    D90     Rectangle 49.37 X 71.02  Rotation 90
+    D91     Rectangle 41.50 X 57.24
+    D137    Rectangle 49.37 X 50.00
+    D138    Rectangle 24.00 X 75.00
+    D139    Rectangle 107.00 X 121.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a - Bottom Copper.gbr
+
+    Layers:
+    ----------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D10     Round 5.00
+    D17     Round 32.00
+    D19     Round 60.00
+    D23     Rectangle 31.50 X 47.24  Rotation 90
+    D28     Rectangle 31.50 X 47.24
+    D29     Round 48.00
+    D72     Round 30.00
+    D73     Round 40.00
+    D74     Round 15.00
+    D76     Round 25.00
+    D104    Rectangle 24.80 X 32.68
+    D105    Bullet 43.31 X 78.74  Rotation 180
+    D106    Round 43.31
+    D107    Bullet 43.31 X 78.74
+    D108    Round 35.00
+    D109    Round 50.00
+    D126    Round 39.37
+    D127    Round 59.06
+    D135    Round 27.56
+    D136    Rectangle 39.37 X 40.00
+
+Gerber Output
+=============
+
+C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a - Bottom Copper (Resist).gbr
+
+    Layers:
+    ----------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D10     Round 5.00
+    D77     Round 42.00
+    D79     Round 70.00
+    D80     Round 49.37
+    D86     Rectangle 41.50 X 57.24  Rotation 90
+    D91     Rectangle 41.50 X 57.24
+    D110    Rectangle 34.80 X 42.68
+    D111    Bullet 53.31 X 88.74  Rotation 180
+    D112    Round 53.31
+    D113    Bullet 53.31 X 88.74
+    D137    Rectangle 49.37 X 50.00
+
+Gerber Output
+=============
+
+C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a - Bottom Silkscreen.gbr
+
+    Layers:
+    -------------------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D10     Round 5.00
+    D11     Round 1.00
+    D12     Round 6.00
+    D14     Round 8.00
+    D16     Round 1.28
+
+NC Drill Output
+===============
+
+C:\Users\William Eustac\Documents\CanSat\electronics\design\pcb_a - Drill Data - Through Hole.drl
+
+    Output:
+    --------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.020 in  12     G
+    T002   00.024 in  3      H
+    T003   00.024 in  12     D
+    T004   00.035 in  39     A
+    T005   00.039 in  4      C
+    -----------------------------
+    Total             70
+    -----------------------------
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.025 in  1
+    -----------------------------
+    Total             1
+    -----------------------------
+
+End Of Report.
