@@ -1,4 +1,4 @@
-Modified MIT License (MIT)
+Modified MIT Licence (MIT)
 
 Copyright (c) 2015 Team Impulse
 
